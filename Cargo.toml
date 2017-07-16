@@ -8,3 +8,4 @@ repository = "https://github.com/tcr/rust-local-ip.git"
 
 [dependencies]
 regex = "0.1"
+encoding = "0.2"
